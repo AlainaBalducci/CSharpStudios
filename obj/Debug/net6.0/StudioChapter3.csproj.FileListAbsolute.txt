@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\bin\Debug\net6.0\StudioChapter3.exe
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\bin\Debug\net6.0\StudioChapter3.deps.json
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\bin\Debug\net6.0\StudioChapter3.runtimeconfig.json
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\bin\Debug\net6.0\StudioChapter3.dll
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\bin\Debug\net6.0\StudioChapter3.pdb
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\StudioChapter3.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\StudioChapter3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\StudioChapter3.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\StudioChapter3.AssemblyInfo.cs
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\StudioChapter3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\StudioChapter3.dll
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\refint\StudioChapter3.dll
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\StudioChapter3.pdb
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\StudioChapter3.genruntimeconfig.cache
+C:\Users\Student\Desktop\csharp-practice\Studios\StudioChapter3\StudioChapter3\obj\Debug\net6.0\ref\StudioChapter3.dll
